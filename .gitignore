@@ -1,0 +1,12 @@
+*
+
+!**/
+
+!.gitignore
+!*.py
+!*.ipynb
+!*.pdf
+!README.md
+
+!JupyterImages/
+!JupyterImages/*
